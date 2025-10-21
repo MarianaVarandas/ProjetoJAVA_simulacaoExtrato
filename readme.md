@@ -3,25 +3,22 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarianaVarandas/ProjetoJAVA_simulacaoExtrato)
 
-Este repositório contém a **simulação de uma conta bancária virtual em Java**, como parte do curso **Java: Criando a sua primeira aplicação**, da fase **Tech Advanced** do programa **Oracle Next Foundation**.
-
-📂 **Repositório do código:** [GitHub](https://github.com/MarianaVarandas/ProjetoJAVA_simulacaoExtrato)
+Este repositório contém a **simulação de uma conta bancária virtual em Java**, como finalização do curso **Java: Criando a sua primeira aplicação**, da fase **Tech Advanced** do programa **Oracle Next Foundation**.
 
 ---
 
 ## ✨ Sobre o Projeto
 
-- Foi minha **primeira experiência prática em Java**, consolidando conceitos de lógica de programação e estruturas de controle.
+- Foi minha **primeira experiência prática em Java**, consolidando conceitos de lógica de programação e estruturas de controle nessa linguagem.
 - O programa permite que o usuário interaja com uma conta bancária virtual, realizando operações de **consulta de saldo, recebimento e transferência de valores**, com validação de saldo disponível.
-- O objetivo principal foi aplicar na prática os conceitos de **variáveis, estruturas condicionais (`if` / `switch`), loops (`while`) e entrada de dados (`Scanner`)**, consolidando minhas primeiras experiências com Java.
-
+- O objetivo principal foi aplicar na prática os conceitos de **variáveis, estruturas condicionais (`if` / `switch`), loops (`while`) e entrada de dados (`Scanner`).**
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Java SE**
-- **IDE de sua preferência** (Eclipse, IntelliJ IDEA ou VS Code)
-- **Git e GitHub** para versionamento
+- **Java 17**
+- **IntelliJ**
+- **Git e GitHub** para versionamento.
 
 ---
 
@@ -39,8 +36,8 @@ Após concluir esta primeira experiência, iniciei o curso **Java: aplicando a O
 
 ## 📌 Observação
 
-Esse projeto é especial porque marca a **conclusão das minhas primeiras experiências práticas em Java**, consolidando a aprendizagem do curso **Oracle Next Foundation**.  
-Simples, mas foi um passo importante para ganhar confiança e experiência prática em programação ✨
+Esse projeto é especial porque marca a **conclusão das minhas primeiras experiências práticas em Java**, consolidando a aprendizagem no programa **Oracle Next Foundation**.  
+Simples, mas foi um passo importante para ganhar confiança e experiência prática em na linguagem✨
 
 Feito com 💜 por [Dayalu](https://github.com/MarianaVarandas) – Professora de Voz, Gestora de Projetos e Desenvolvedora em formação.  
 Me siga nas redes:
